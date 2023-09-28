@@ -1,0 +1,401 @@
+*{
+	margin: 0%;
+	background-color: rgb(197, 224, 215);
+}
+.navbar{
+	padding: 2.5%;
+	background-color:aqua;
+}
+.navbar img{
+	vertical-align: middle;
+}
+.navbar a{
+	text-decoration: none;
+	font-size: 15px;
+	background-color: whitesmoke;
+	color: black;
+	margin-left: 1%;
+	padding: 1%;
+}
+.logo{
+	margin: 0% 6.7% 0% 3%;
+}
+#signin{
+	margin-left: 15%;
+	background-color: #00baf2;
+	color: white;
+	padding: 1%;
+	border-radius: 30px;
+	text-align: center;
+}
+.smile{
+	background-color: grey;
+	padding: 0.7%;
+	font-size: 10px;
+	text-align: center;
+}
+.sec2{
+	font-family: poppins;
+	display: flex;
+	justify-content: space-between;
+	padding: 5% 0% 5% 8%;
+}
+.india{
+	font-size: 45px;
+}
+.download-app{
+	border: 2px solid black;
+	color: white;
+	background-color: black;
+	width: 68%;
+	border-radius: 35px;
+	padding: 5%;
+	font-size: 20px;
+	margin-left: 2%;
+	margin-top: 10%;
+	margin-right: 5%;
+}
+.download-app:hover{
+	background-color: white;
+	color: black;
+}
+.icon i
+{
+	margin-left: 4%;
+}
+.sec3div1{
+	display: flex;
+	justify-content: space-between;
+	padding: 1%;
+	color: white;
+}
+.recharge a{
+	font-size: 20px;
+	padding-top: 4%;
+	padding-bottom: 4%;
+	color: white;
+}
+.Recharge{
+	background-color: lightskyblue;
+}
+.sec3div2{
+	display: flex;
+	justify-content: space-between;
+	padding: 1%;
+	color: white;
+}
+.head{
+	color: white;
+}
+.book a{
+	color: white;
+	padding-top: 4%;
+	padding-bottom: 4%;
+}
+.book{
+	color: white;
+	background-color: royalblue;
+}
+.payment{
+	display: flex;
+}
+.sec5{
+	display: flex;
+	justify-content: space-between;
+	padding: 16% 15% 15% 15%;
+}
+.head2{
+	font-family: sans-serif;
+	font-size: 55px;
+	padding-top: 10%;
+	padding-left: 8%;
+	padding-right: 8%;
+}
+.the{
+	font-size: 40px;
+	font-family: sans-serif;
+}
+.load{
+	font-size: 20px;
+	font-family: sans-serif;
+	padding-bottom: 4%;
+}
+.app2{
+	padding-top: 5%;
+	padding-bottom: 5%;
+	padding-right: 5%;
+	width: 15%;
+	border: 1px solid black;
+	background-color: white;
+	color: black;
+	border-radius: 2%;
+}
+.download-app:hover{
+	background-color: white;
+	color: black;
+}
+.sec6{
+	display: flex;
+	justify-content: space-between;
+	padding: 10% 10% 5% 10%;
+}
+.download-app:hover{
+	background-color: white;
+	color: black;
+}
+.sec7{
+	display: flex;
+	justify-content: space-between;
+	padding: 10% 20% 5% 20%;
+}
+.s7hd{
+	font-size: 54px;
+	font-family: sans-serif;
+}
+.pz{
+	font-size: 25px;
+	margin-bottom: 15%;
+}
+.learn{
+	font-family: sans-serif;
+	border: 1px solid black;
+	background-color: royalblue;
+	width: 22%;
+	color: white;
+	border-radius: 50px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-right: 7%;
+	padding-left: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+.sec8{
+	display: flex;
+	justify-content: space-between;
+	padding: 5% 5% 8% 10%;
+}
+
+.s8hd{
+
+	font-family: sans-serif;
+	font-size: 34px;
+}
+.pa{
+	margin-bottom: 10%;
+	font-family: sans-serif;
+	font-size: 25px;
+}
+.s8hed{
+	font-family: sans-serif;
+	font-size: 40px;
+}
+.pb{
+	font-size: 25px;
+	font-family: sans-serif;
+	margin-bottom: 15%;
+}
+.hdfc{
+	padding-left: 4%;
+}.sbi{
+	padding-top: 4%;
+}
+.sec9{
+	background-color: white;
+	font-family: sans-serif;
+	margin: 3% 7% 1% 7%;
+	display: flex;
+	justify-content: space-between;
+	padding: 2% 4% 5% 8%;
+}
+.sec9p{
+	margin-top: 10%;
+	margin-bottom: 10%;
+	font-weight: bold;
+}
+.finance{
+	font-size: 52px;
+	padding: 10%;
+}
+.bank{
+	padding-top: 10%;
+	font-size: 40px;
+}
+.learn{
+	font-family: sans-serif;
+	border: 1px solid black;
+	background-color: royalblue;
+	width: 22%;
+	color: white;
+	border-radius: 50px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-right: 7%;
+	padding-left: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+.sec10{
+	display: flex;
+	justify-content: space-between;
+}
+.s10h{
+	font-size: 45px;
+	font-family: sans-serif;
+}
+.s10p{
+	font-size: 27px;
+	font-family: sans-serif;
+	margin-bottom: 12%;
+}
+
+.learn{
+	font-family: sans-serif;
+	border: 1px solid black;
+	background-color: royalblue;
+	width: 20%;
+	color: white;
+	border-radius: 50px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-right: 7%;
+	padding-left: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+.sec11{
+	display: flex;
+	justify-content: space-between;
+	padding: 9% 0% 8% 7.5%;
+}
+.s11h{
+	font-size: 58px;
+	font-family: sans-serif;
+}
+.s11p{
+	font-size: 20px;
+	margin-bottom: 12%;
+	font-family: sans-serif;
+}
+.learn{
+	font-family: sans-serif;
+	border: 1px solid black;
+	background-color: royalblue;
+	width: 20%;
+	color: white;
+	border-radius: 50px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-right: 7%;
+	padding-left: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+.sec12{
+	display: flex;
+	justify-content: space-between;
+	padding: 9% 0% 8% 7.5%;
+}
+.s12h{
+	font-size: 40px;
+	font-family: sans-serif;
+}
+.s12p{
+	font-size: 20px;
+	font-family: sans-serif;
+	margin-bottom: 10%;
+}
+.bu{
+	font-size: 65px;
+	font-family: sans-serif;
+	margin-bottom: 10%;
+}
+.learn{
+	font-family: sans-serif;
+	border: 1px solid black;
+	background-color: royalblue;
+	width: 15%;
+	color: white;
+	border-radius: 50px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-right: 7%;
+	padding-left: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+.sec13{
+	display: flex;
+	justify-content: space-between;
+	padding: 9% 0% 8% 7.5%;
+}
+.s13h{
+	font-size: 50px;
+	font-family: sans-serif;
+	margin-top: 40%;
+}
+.s13p{
+	font-size: 27px;
+	font-family: sans-serif;
+	margin-bottom: 15%;
+
+}
+.learn{
+	font-family: sans-serif;
+	border: 1px solid black;
+	background-color: royalblue;
+	width: 10%;
+	color: white;
+	border-radius: 45px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-right: 5%;
+	padding-left: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+.sec14{
+	display: flex;
+	justify-content: space-between;
+	padding: 9% 0% 8% 5.5%;
+}
+.s14h{
+	font-size: 50px;
+	font-family: sans-serif;
+	margin-top: 40%;
+}
+.s14p{
+	font-size: 20px;
+	font-family: sans-serif;
+	margin-bottom: 15%;
+
+}
+.learn{
+	font-family: sans-serif;
+	border: 1px solid black;
+	background-color: royalblue;
+	width: 10%;
+	color: white;
+	border-radius: 45px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	padding-right: 5%;
+	padding-left: 7%;
+}
+.learn:hover{
+	background-color: skyblue;
+	cursor: pointer;
+}
+
